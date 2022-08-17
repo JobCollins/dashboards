@@ -1,2 +1,2 @@
-#ignore ALL .pdf files
-*.pdf
+#ignore ALL files in dashboard_env
+dashboard_env/
